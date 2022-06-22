@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview
-The purpose of this study was to create and train a machine learning model in order to accurately predict high risk loans. The [dataset](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv) comes from Q1 2019 from Lending Club. This was done using the `imbalanced-learn` and `scikit-learn` libraries in Python so as to use the `RandomOversampler` and `SMOTE` for over-sampling, `ClusterCentoids` for under-sampling, `SMOTEEN` in order to combine over and under-sampling. Then also for Ensemble Learners we used `BalancedRandomForestClassifier` and `AdaBoost'.
+The purpose of this study was to create and train a machine learning model in order to accurately predict high risk loans. This was done using the `imbalanced-learn` and `scikit-learn` libraries in Python so as to use the `RandomOversampler` and `SMOTE` for over-sampling, `ClusterCentoids` for under-sampling, `SMOTEEN` in order to combine over and under-sampling. Then also for Ensemble Learners we used `BalancedRandomForestClassifier` and `AdaBoost'.
 
 ## Results
 ### Over-sampling
@@ -11,7 +11,8 @@ The purpose of this study was to create and train a machine learning model in or
 
 Confusion Matrix
 
-![naive_oversampling_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/naive_oversampling_cm.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175098732-03ef9828-4e10-4712-b0cd-8158da47fc0d.png)
+
 
 Classification Report
 

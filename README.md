@@ -16,7 +16,8 @@ Confusion Matrix
 
 Classification Report
 
-![naive_oversampling_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/naive_oversampling_class_report.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175098847-48e81c31-7ccb-48e2-915a-5f38aeae66bd.png)
+
 
 #### SMOTE Oversampling Algorithm
 * Balanced Accuracy Score: 65.86%
@@ -25,11 +26,13 @@ Classification Report
 
 Confusion Matrix
 
-![smote_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smote_cm.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175098945-a47efb10-816a-4e37-b624-967d3ea94728.png)
+
 
 Classification Report
 
-![smote_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smote_class_report.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175099008-37eb5988-8cfa-40c7-857c-041ed713e13c.png)
+
 
 ### Under-sampling
 #### ClusterCentroids Algorithm
@@ -57,7 +60,8 @@ Confusion Matrix
 
 Classification Report
 
-![smoteen_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smoteen_class_report.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175099124-c093d52d-e3d1-463f-902c-099820900971.png)
+
 
 ### Ensemble Learners
 #### Balanced Random Forest Classifier Algorithm
@@ -67,11 +71,13 @@ Classification Report
 
 Confusion Matrix
 
-![balanced_random_forest_classifier_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/balanced_random_forest_classifier_cm.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175099319-3db20eff-8803-4f76-93f2-5dea21d85916.png)
+
 
 Classification Report
 
-![balanced_random_forest_classifier_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/balanced_random_forest_classifier_class_report.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175099422-fc80897a-c6a2-4b3c-ad80-c11f9bdfb575.png)
+
 
 #### Easy Ensemble AdaBoost Classifier
 * Balanced Accuracy Score: 93.17%
@@ -84,7 +90,8 @@ Confusion Matrix
 
 Classification Report
 
-![adaboost_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/adaboost_class_report.PNG)
+![image](https://user-images.githubusercontent.com/100445489/175099493-b6d1e8a9-fbf3-4da0-bf68-e99fd4bda45f.png)
+
 
 ## Summary
 The balanced accuracy scores for each of the models in descending order are: 
